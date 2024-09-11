@@ -4,7 +4,30 @@ title: Student Home
 description: Home Page
 hide: true
 ---
-Beijan's student repository
+# Welcome to My Project Page
+
+Welcome to my personal project site! Below, you'll find some of the projects and notebooks I have been working on, along with my personal interests and goals.
+
+
+---
+
+## Submenu: Explore My Jupyter Notebooks
+
+- [Planning Document](./notebooks/foundation/1-Sprint1/2024-09-10-planning-doc.ipynb)
+- [JavaScript Experiment](./notebooks/javascript_experiment.ipynb)
+- [About Me](./notebooks/about_me.ipynb)
+
+---
+
+### Interests
+
+Here are some of the topics I'm interested in:
+
+- **Computer Science**: I love learning about computer science because there is always new things to learn.
+- **Finance**: I am in the DECA club in with I learn about topics in finance and I go to competitions to test my knowledge against other competetors.
+- **Engineering**: I have a big interest in engineering as hoping to study it in college. I have taken all the engineering classes in school and am looking into joining an engineering club
+
+You can find more about me on my [About Me Page](./navigation/about.md).
 
 
 <html lang="en">
