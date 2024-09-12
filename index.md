@@ -13,9 +13,8 @@ Welcome to my personal project site! Below, you'll find some of the projects and
 
 ## Submenu: Explore My Jupyter Notebooks
 
-- [Planning Document](./notebooks/foundation/1-Sprint1/2024-09-10-planning-doc.ipynb)
-- [JavaScript Experiment](./notebooks/javascript_experiment.ipynb)
-- [About Me](./notebooks/about_me.ipynb)
+- [Planning Doc](https://beijanm.github.io/beijan25/sass/2024/09/10/planning-doc_IPYNB_2_.html)
+- [Cool Features in Jupyter Notebooks Python](/beijan25/jupyter/notebook/python)
 
 ---
 
