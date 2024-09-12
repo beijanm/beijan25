@@ -34,9 +34,10 @@ Hello! My name is **Beijan Moniza**. I am passionate about computer science, eng
 
 ## My Family
 
-
+- I have 1 younger sister that just started in Del Norte. My mom and dad always support me and help me out with things I struggle with. Without my family I am nothing and I am very grateful for them.
+- Where my parents are from:
 <img width="1197" alt="Screenshot 2024-09-12 at 9 16 24 AM" src="https://github.com/user-attachments/assets/298530bc-ed0d-47c3-849d-821b0d5ecb01">
-
+<img width="1270" alt="Screenshot 2024-09-12 at 9 35 36 AM" src="https://github.com/user-attachments/assets/8cba037c-2f3f-4bd8-8fb1-f2194bb7b906">
 
 ---
 ## Contact Me
