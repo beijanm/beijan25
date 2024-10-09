@@ -13,6 +13,7 @@ Welcome to my personal project site! Below, you'll find some of the projects and
 
 ## Submenu: Explore My Jupyter Notebooks
 
+- [Java Team Teaches](/beijan25/_posts/Foundation/units_1_to_10/tthome.md)
 - [Planning Doc](https://beijanm.github.io/beijan25/sass/2024/09/10/planning-doc_IPYNB_2_.html)
 - [Cool Features in Jupyter Notebooks Python](/beijan25/jupyter/notebook/python)
 
