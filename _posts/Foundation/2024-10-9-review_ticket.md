@@ -5,7 +5,9 @@ courses: {'csa': {'week': 6}}
 type: ccc
 comments: True
 ---
+
 # Student Teaching - Part 1 Fundamentals
+
 | **Assignment**             | **Points**    | **Grade** | **Evidence** |
 |----------------------------|---------------|-----------|--------------|
 | Pull Request (Integration) | 2             |           |              |
@@ -15,6 +17,7 @@ comments: True
 | Individual Contribution    | 1             |           |              |
 | Personal Notebooks / Blogs | 1             |           |              |
 | Total                      | 12            |           |              |
+
 | **Skill**                  | **Points**    | **Grade** | **Evidence** |
 |----------------------------|---------------|-----------|--------------|
 | Work Habits (Analytics)    |   1           |           |              |
@@ -23,7 +26,9 @@ comments: True
 | Grading and Feedback       |   1           |           |              |
 | Beyond Perfunctory         |   1           |           |              | 
 | Total                      |   5           |           |              |
+
 # Lesson Review - Topic Relevancy (Stdent Review)
+
 | **Assignment**          | **Weightage** | **Grade** | **Comments** |
 |-------------------------|---------------|-----------|--------------|
 | College Board Coverage  | 20            | TBD       | TBD          |
