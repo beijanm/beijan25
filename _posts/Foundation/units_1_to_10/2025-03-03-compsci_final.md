@@ -106,7 +106,7 @@ permalink: /compsci_final
   <div class="links">
     <!-- Dropdown for Unit 1 -->
         <div class="link-container">
-      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/U1';">My 5 Things
+      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/5p';">My 5 Points
         <div class="dropdown-content">
           <ul>
             <li>Objects represent real-world entities in programming.</li>
@@ -120,7 +120,7 @@ permalink: /compsci_final
     </div>
     <!-- Dropdown for Unit 2 -->
     <div class="link-container">
-      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/U2';">Unit 2 — Using Objects
+      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/ap2';">MCQ and FRQ
         <div class="dropdown-content">
           <ul>
             <li>Objects represent real-world entities in programming.</li>
@@ -134,7 +134,7 @@ permalink: /compsci_final
     </div>
     <!-- Dropdown for Unit 3 -->
     <div class="link-container">
-      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/U3';">Unit 3 — Boolean Expressions
+      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/keyfeature2';">My Key Features
         <div class="dropdown-content">
           <ul>
             <li>Boolean expressions evaluate to either true or false.</li>
@@ -148,7 +148,7 @@ permalink: /compsci_final
     </div>
     <!-- Dropdown for Unit 4 -->
     <div class="link-container">
-      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/U4';">Unit 4 — Iteration
+      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/N@TM2';">N@TM Feedback
         <div class="dropdown-content">
           <ul>
             <li>Loops allow repeated execution of a block of code.</li>
@@ -156,76 +156,6 @@ permalink: /compsci_final
             <li>Loops can iterate over arrays or lists of items.</li>
             <li>Break and continue can control loop execution.</li>
             <li>Used to simplify repetitive tasks in code.</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <!-- Dropdown for Unit 5 -->
-    <div class="link-container">
-      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/U5';">Unit 5 — Writing Classes
-        <div class="dropdown-content">
-          <ul>
-            <li>Classes define blueprints for objects.</li>
-            <li>Each class contains fields (attributes) and methods.</li>
-            <li>Constructors create instances of classes (objects).</li>
-            <li>Static methods/fields belong to the class, not instances.</li>
-            <li>Inheritance allows creating new classes from existing ones.</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <!-- Dropdown for Unit 6 -->
-    <div class="link-container">
-      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/U6';">Unit 6 — Arrays
-        <div class="dropdown-content">
-          <ul>
-            <li>Arrays store multiple elements of the same type.</li>
-            <li>Elements are accessed using zero-based index numbers.</li>
-            <li>Fixed size; cannot change once declared.</li>
-            <li>Useful for managing lists or collections of data.</li>
-            <li>Common operations: iteration, sorting, and searching.</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <!-- Dropdown for Unit 7 -->
-    <div class="link-container">
-      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/U7';">Unit 7 — ArrayLists
-        <div class="dropdown-content">
-          <ul>
-            <li>ArrayLists are dynamic arrays in Java.</li>
-            <li>Unlike arrays, ArrayLists can change size dynamically.</li>
-            <li>ArrayLists store objects, not primitive types.</li>
-            <li>Useful methods: add(), remove(), get(), size().</li>
-            <li>ArrayLists offer more flexibility than basic arrays.</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <!-- Dropdown for Unit 8 -->
-    <div class="link-container">
-      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/U8';">Unit 8 — 2D Arrays
-        <div class="dropdown-content">
-          <ul>
-            <li>2D arrays are arrays of arrays (matrix structure).</li>
-            <li>Rows and columns are used to access elements.</li>
-            <li>Useful for representing grids, tables, and matrices.</li>
-            <li>Common operations: iterating over rows and columns.</li>
-            <li>Indexed by two values: row index and column index.</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <!-- Dropdown for Unit 9 -->
-    <div class="link-container">
-      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/U9';">Unit 9 — Java Inheritance
-        <div class="dropdown-content">
-          <ul>
-            <li>Inheritance allows one class to acquire properties of another.</li>
-            <li>Promotes code reuse and reduces redundancy.</li>
-            <li>Parent (superclass) and child (subclass) relationships.</li>
-            <li>Overriding methods in subclasses to provide specific behavior.</li>
-            <li>Polymorphism allows treating objects of different classes in a uniform way.</li>
           </ul>
         </div>
       </div>

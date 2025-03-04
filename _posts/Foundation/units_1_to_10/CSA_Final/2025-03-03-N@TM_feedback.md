@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My 5 Points
+title: N@TM Feedback
 courses: {'csa': {'week': 19}}
 type: ccc 
 comments: true
-permalink: /5p
+permalink: /N@TM2
 ---
