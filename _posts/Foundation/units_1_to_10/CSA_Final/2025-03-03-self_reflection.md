@@ -59,19 +59,30 @@ permalink: /reflection2
 </style>
 
 <div class="container">
-  <h1>Hacks for Unit 2</h1>
 
-  <p>
-    What I learned from the quiz:
-    What I learned from this quiz is that I am not as proficient in boolean expressions and if statements as I previously thought and I worked on improving my knowledge on it.
-    My wrong answers with:
-    <img width="1105" alt="Screenshot 2024-11-19 at 8 48 07 AM" src="https://github.com/user-attachments/assets/37446da8-9ea8-4d6b-8670-0f7e72c47c74">
-    - The correct answer is (C) Value is: 2 because integer division is used (x / y), and since both x and y are integers, the decimal part is truncated, resulting in 7 / 3 = 2.
-    <img width="1099" alt="Screenshot 2024-11-19 at 8 48 27 AM" src="https://github.com/user-attachments/assets/cf6c0797-3407-4f97-8e9c-ce3c9537d911">
-    - The correct answer is (C) because the method iterates in reverse and moves elements starting with "b" to the front of the list while maintaining their relative order, resulting in the transformation observed in the given list.
-    <img width="1097" alt="Screenshot 2024-11-19 at 9 12 41 AM" src="https://github.com/user-attachments/assets/7852d4e7-dde5-45d3-ba39-ac9550930f0f">
-    - The correct answer is (B) 7, 9, 11 because it tests all three conditions: odd numbers (x % 2 != 0), numbers greater than 9 (x > 9), and numbers not greater than 9 or even (else condition).
-  </p>
+    <div>
+
+        <p>
+            <strong>Grade I Think I Deserve:</strong><br>
+            The grade I think that I deserve for the trimester taking everything into account is a .8
+        </p>
+
+        <p>
+            <strong>What I Did Good to Deserve the Grade:</strong><br>
+            I made some integral feature to the seed tracker that would not allow it to work with. I was consistent with the team teaches, doing good on homework and doing my part in the presentation. Even though it doesn't seem like I had a successful trimester I tries my best to put in effort when necessary and I hope to fix my weaknesses going into the third trimester.
+        </p>
+
+        <p>
+            <strong>What I Did Bad to Deserve the Grade:</strong><br>
+            When I didnt know what to do I would slack off and not get any work done when I should have been looking for more work to do. Communication was definitely my downfall this trimester as if I had communicated better I would have made more impactful features due to knowing what was needed.
+        </p>
+
+        <p>
+            <strong>What I Want to Do in the Future to Get a Better Grade:</strong><br>
+            My plan for the next trimester sounds rather simple but takes a bit of effort to execute. I plan to communicate a lot more to scrum masters for what my part of the project should be and work to do both in person and in slack. This will allow me to get more work done. I will also try not to slack off during class. I show up on time everyday and I want to keep that up as I think punctuality is very important. This is how I aim to acheive a .9 next trimester
+        </p>
+    </div>
+
 
   <a href="javascript:window.history.back()" class="back-button">Back to Previous Page</a>
 </div>

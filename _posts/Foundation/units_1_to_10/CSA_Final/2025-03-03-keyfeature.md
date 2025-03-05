@@ -59,7 +59,6 @@ permalink: /keyfeature2
 </style>
 
 <div class="container">
-  <h1>Hacks for Unit 2</h1>
 
     <div>
         <p>I worked on the different methods for seed and improved a couple things from the previous version.</p>
@@ -93,6 +92,10 @@ permalink: /keyfeature2
             <strong>What I Plan To Work on</strong><br>
             <img width="832" alt="Image" src="https://github.com/user-attachments/assets/9dd09be0-4bd8-405a-a1bf-69cf8072237d" />
         </p>
+        Visualization of my code:
+        <img width="920" alt="Image" src="https://github.com/user-attachments/assets/d1bda5e4-90a1-4766-8d6d-5490a646dfac" />
+        <img width="548" alt="Image" src="https://github.com/user-attachments/assets/6256f373-d0cc-4330-8a94-618c47117368" />
+
     </div>
 
 
