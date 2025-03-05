@@ -109,11 +109,7 @@ permalink: /compsci_final
       <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/5p';">My 5 Points
         <div class="dropdown-content">
           <ul>
-            <li>Objects represent real-world entities in programming.</li>
-            <li>Methods define object behavior.</li>
-            <li>Encapsulation hides data within objects.</li>
-            <li>Constructors initialize new object instances.</li>
-            <li>Accessors and mutators (getters/setters) manage object data.</li>
+            <li>5 things I did over 12 weeks, Issues, Burn Down, lesson(s), presentation(s), analytics, personal blog.</li>
           </ul>
         </div>
       </div>
@@ -123,11 +119,7 @@ permalink: /compsci_final
       <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/ap2';">MCQ and FRQ
         <div class="dropdown-content">
           <ul>
-            <li>Objects represent real-world entities in programming.</li>
-            <li>Methods define object behavior.</li>
-            <li>Encapsulation hides data within objects.</li>
-            <li>Constructors initialize new object instances.</li>
-            <li>Accessors and mutators (getters/setters) manage object data.</li>
+            <li>MCQ / FRQ work</li>
           </ul>
         </div>
       </div>
@@ -137,11 +129,7 @@ permalink: /compsci_final
       <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/keyfeature2';">My Key Features
         <div class="dropdown-content">
           <ul>
-            <li>Boolean expressions evaluate to either true or false.</li>
-            <li>Logical operators include AND (&&), OR (||), and NOT (!).</li>
-            <li>Used for decision-making (if-else statements).</li>
-            <li>Relational operators compare values (==, !=, >, <, >=, <=).</li>
-            <li>Critical for loops and flow control in programs.</li>
+            <li>Key Feature blog write up, visualization (drawIO, mermaid) in your blog</li>
           </ul>
         </div>
       </div>
@@ -151,17 +139,23 @@ permalink: /compsci_final
       <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/N@TM2';">N@TM Feedback
         <div class="dropdown-content">
           <ul>
-            <li>Loops allow repeated execution of a block of code.</li>
-            <li>Types of loops: for, while, and do-while.</li>
-            <li>Loops can iterate over arrays or lists of items.</li>
-            <li>Break and continue can control loop execution.</li>
-            <li>Used to simplify repetitive tasks in code.</li>
+            <li>Full Stack Feature Demo, include highlighting Java and N@tM feedback</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- Dropdown for Unit 4 -->
+    <div class="link-container">
+      <div class="dropdown" onclick="window.location.href='{{site.baseurl}}/reflection2';">Self Reflection
+        <div class="dropdown-content">
+          <ul>
+            <li>How I rank myself looking back at the second trimester and what I could have and will do better next trimester</li>
           </ul>
         </div>
       </div>
     </div>
     <!-- The Link for the issue -->
-    <a href="{{site.baseurl}}/revtic-TT" class="main-link">Go to My Issue</a>
+    <a href="https://github.com/beijanm" class="main-link">My Github Profile</a>
   </div>
 </div>
 

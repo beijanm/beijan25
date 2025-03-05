@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My 5 Points
+title: My Self Reflection
 courses: {'csa': {'week': 19}}
 type: ccc 
 comments: true
-permalink: /5p
+permalink: /reflection2
 ---
 
 <style>
@@ -62,9 +62,6 @@ permalink: /5p
   <h1>Hacks for Unit 2</h1>
 
   <p>
-    - 
-
-
     What I learned from the quiz:
     What I learned from this quiz is that I am not as proficient in boolean expressions and if statements as I previously thought and I worked on improving my knowledge on it.
     My wrong answers with:
